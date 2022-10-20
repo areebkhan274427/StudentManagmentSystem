@@ -61,7 +61,7 @@ The components of Swing are platform-independent, i.e., swing doesn't depend on 
 
 
 # Conclusion
-By now I’m sure you understand exactly how to Make a connection with database and how we can store and update the Information and also learned java swing and awt and help of that how can we make a beautiful GUL,I hope y’all enjoyed reading this article as much as I enjoyed writing it!
+By now I’m sure you understand exactly how to Make a connection with database and how we can store and update the Information and also learned java swing and awt and help of that how can we make a beautiful GUI,I hope y’all enjoyed reading this article as much as I enjoyed writing it!
 
 ## Authors
 
