@@ -5,13 +5,6 @@ course result declaration , student details and to help student’s check their 
 search for their result.
 -Used mysql database to store/fetch data entered into the GUI.
 
- 
-# Demo Video :- 
-
-https://user-images.githubusercontent.com/74968170/196425819-b77812c4-48ec-4584-a496-fc51bd161867.mp4
-
-
-
 # About the project 
 Student result management system project having two modules:
 1. Student module:
@@ -19,6 +12,14 @@ In this module we have to enter roll number to see user or student result. When 
 
 2. Admin module:
 In this module we can add new student and add new result. If we want to add an existing roll number or student details then we get error message.we can also see student details and student result.
+ 
+# Demo Video :- 
+
+https://user-images.githubusercontent.com/74968170/196425819-b77812c4-48ec-4584-a496-fc51bd161867.mp4
+
+
+
+
 
 
 
