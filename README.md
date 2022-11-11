@@ -1,4 +1,4 @@
-# Students_Result_Managements_System
+# Students Result Managements System
 - Built a Student Result management system GUI application to help the admin store various data such as
 course result declaration , student details and to help student’s check their own result.
 -Added functionaly for admin to add/list student detail , add/list/update student result and for student to
